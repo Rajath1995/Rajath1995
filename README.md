@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rajath1995
 - 👀 I’m interested in Data Science and Software Development actually blend of both. 
-- 🌱 I’m currently learning Data Science positions specifically product oriented. 
+- 🌱 I’m currently learning to build Data Science specifically product oriented. 
 - 💞️ I’m looking to collaborate on Open source Analytics Products. 
 - 📫 How to reach me - rajathnagn@gmail.com
 
